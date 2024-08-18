@@ -1,0 +1,19 @@
+{
+  "name": "na37-student-management-system",
+  "version": "1.0.0",
+  "description": "A TypeScript program in which we can add new students, generate roll numbers, enroll students in courses. we can also view balance , fee status etc. student status can show name, id , course, and fee status of students.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nimra-rasheed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
